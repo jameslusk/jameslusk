@@ -614,6 +614,10 @@ body {
   .portfolio__projects > .btn {
     max-width: 2%;
   }
+  .portfolio__links {
+    display: flex; 
+    justify-content: center;
+  }
   .btn--portfolio {
     margin: 5px;
   }

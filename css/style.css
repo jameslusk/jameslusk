@@ -340,9 +340,6 @@ body {
 .row {
   max-width: 114rem;
   margin: 0 auto;
-  /* TEMPORARY DUE TO ONLY 1 PROJECT TO LIST */
-  display: flex;
-  justify-content: center;
 }
 .row:not(:last-child) {
   margin-bottom: 8rem;
